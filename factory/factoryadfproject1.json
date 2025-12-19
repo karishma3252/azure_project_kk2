@@ -1,0 +1,9 @@
+{
+	"name": "factoryadfproject1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de8ce5c6-5c9c-405f-b41a-40bc30bda05d",
+		"tenantId": "f2b04b98-c430-485c-a680-91fa7d8dea06"
+	}
+}
